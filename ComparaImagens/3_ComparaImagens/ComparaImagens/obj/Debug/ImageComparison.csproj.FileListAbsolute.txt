@@ -1,0 +1,9 @@
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\bin\Debug\ImageComparison.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\bin\Debug\ImageComparison.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.csproj.GenerateResource.Cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.csprojResolveAssemblyReference.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.csproj.CoreCompileInputs.cache

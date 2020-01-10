@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageComparison.Form1.resources
+obj\Debug\ImageComparison.Properties.Resources.resources
+obj\Debug\ImageComparison.csproj.GenerateResource.Cache
+bin\Debug\ImageComparison.exe
+bin\Debug\ImageComparison.pdb
+obj\Debug\ImageComparison.exe
+obj\Debug\ImageComparison.pdb

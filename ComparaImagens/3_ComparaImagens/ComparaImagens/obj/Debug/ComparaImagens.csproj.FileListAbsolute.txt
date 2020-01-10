@@ -1,0 +1,42 @@
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\bin\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\bin\Debug\ComparaImagens.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ComparaImagens.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ComparaImagens.csproj.GenerateResource.Cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ComparaImagens.csproj.CoreCompileInputs.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ImageComparison\obj\Debug\ComparaImagens.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\bin\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\bin\Debug\ComparaImagens.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.csprojResolveAssemblyReference.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ImageComparison.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.csproj.GenerateResource.Cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.csproj.CoreCompileInputs.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\ImageComparison\ComparaImagens\obj\Debug\ComparaImagens.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.pdb
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csprojResolveAssemblyReference.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ImageComparison.Form1.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.Properties.Resources.resources
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csproj.GenerateResource.Cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csproj.CoreCompileInputs.cache
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.exe
+C:\_400_projetos_C_vb\300 Proyectos en C# by StartTecPeru\300 C# Project\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.pdb
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.exe
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.pdb
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.exe
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.pdb
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ImageComparison.Form1.resources
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.Properties.Resources.resources
+C:\Users\TI\Desktop\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.exe
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.pdb
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.exe
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\bin\Debug\ComparaImagens.pdb
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ImageComparison.Form1.resources
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.Properties.Resources.resources
+C:\Users\TI\Desktop\ComparaImagens\ComparaImagens\3_ComparaImagens\ComparaImagens\obj\Debug\ComparaImagens.csproj.GenerateResource.Cache
